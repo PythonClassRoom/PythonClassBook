@@ -1,0 +1,19 @@
+Sounds used:
+
+collision.wav:
+( renamed from thud.wav )
+http://www.geocities.com/sunsetstrip/palms/7950/t.html
+
+applause.wav:
+( renamed from applaus.wav )
+http://www.geocities.com/sunsetstrip/palms/7950/a.html
+
+energy.wav:
+( renamed from Spaceship.wav )
+http://www.thewavplace.com/scifi.htm 
+
+toneup.wav:
+http://www.thewavplace.com/scifi.htm
+
+tonedown.wav:
+http://www.thewavplace.com/scifi.htm
