@@ -1,0 +1,36 @@
+0130308978	Internet and World Wide Web How to Program	2	1	2002	iw3htp2.jpg	69.95
+0136325890	Java How to Program	1	1	1998	jhtp1.jpg	0
+0130341517	Java How to Program	4	1	2002	jhtp4.jpg	69.95
+0130649341	The Complete Java Training Course	4	2	2002	javactc4.jpg	109.95
+0130895512	The Complete e-Business & e-Commerce Programming Training Course	1	2	2001	ebecctc.jpg	109.95
+013089561X	The Complete Internet & World Wide Web Programming Training Course	2	2	2001	iw3ctc2.jpg	109.95
+0130895547	The Complete Perl Training Course	1	2	2001	perl.jpg	109.95
+0130895563	The Complete XML Programming Training Course	1	2	2001	xmlctc.jpg	109.95
+0139163050	The Complete C++ Training Course	2	2	1998	cppctc2.jpg	109.95
+0137905696	The Complete Java Training Course	2	2	1998	javactc2.jpg	109.95
+0131180436	C How to Program	1	1	1992	chtp.jpg	69.95
+0132719746	Java Multimedia Cyber Classroom	1	2	1998	javactc.jpg	109.95
+0131173340	C++ How to Program	1	1	1994	cpphtp1.jpg	69.95
+0130132497	Getting Started with Visual C++ 6 with an Introduction to MFC	1	1	1999	gsvc.jpg	49.95
+0130895725	C How to Program	3	1	2001	chtp3.jpg	69.95
+0132261197	C How to Program	2	1	1994	chtp2.jpg	49.95
+0130895717	C++ How to Program	3	1	2001	cpphtp3.jpg	69.95
+0135289106	C++ How to Program	2	1	1998	cpphtp2.jpg	49.95
+0130895636	The Complete C++ Training Course	3	2	2001	cppctc3.jpg	109.95
+013028419X	e-Business and e-Commerce How to Program	1	1	2001	ebechtp1.jpg	69.95
+0130161438	Internet and World Wide Web How to Program	1	1	2000	iw3htp1.jpg	69.95
+0130856118	The Complete Internet and World Wide Web Programming Training Course	1	2	2000	iw3ctc1.jpg	109.95
+0130125075	Java How to Program (Java 2)	3	1	2000	jhtp3.jpg	69.95
+0138993947	Java How to Program (Java 1.1)	2	1	1998	jhtp2.jpg	49.95
+0130852481	The Complete Java 2 Training Course	3	2	2000	javactc3.jpg	109.95
+0130829277	The Complete Java Training Course (Java 1.1)	2	2	1998	javactc2.jpg	99.95
+0134569555	Visual Basic 6 How to Program	1	1	1999	vbhtp1.jpg	69.95
+0130829293	The Complete Visual Basic 6 Training Course	1	2	1999	vbctc1.jpg	109.95
+0130284173	XML How to Program	1	1	2001	xmlhtp1.jpg	69.95
+0130284181	Perl How to Program	1	1	2001	perlhtp1.jpg	69.95
+0130895601	Advanced Java 2 Platform How to Program	1	1	2002	advjhtp1.jpg	69.95
+0130323640	e-Business and e-Commerce for Managers	1	1	2000	ebecm.jpg	69.95
+0130622265	Wireless Internet and Mobile Business How to Program	1	1	2001	wireless.jpg	69.95
+0130622214	C# How To Program	1	1	2002	cshtp.jpg	69.95
+0130923613	Python How to Program	1	1	2002	python.jpg	69.95
+0130293636	Visual Basic .NET How to Program	2	1	2002	vbnet.jpg	69.95

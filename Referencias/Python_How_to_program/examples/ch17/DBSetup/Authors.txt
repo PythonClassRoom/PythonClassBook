@@ -1,0 +1,13 @@
+1	Harvey	Deitel
+2	Paul	Deitel
+3	Tem	Nieto
+4	Kate	Steinbuhler
+5	Sean	Santry
+6	Ted	Lin
+7	Praveen	Sadhu
+8	David	McPhie
+9	Cheryl	Yaeger
+10	Marina	Zlatkina
+11	Ben	Wiedermann
+12	Jonathan	Liperi
+13	Jeffrey	Listfield

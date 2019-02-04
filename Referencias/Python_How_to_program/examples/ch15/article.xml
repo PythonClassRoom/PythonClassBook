@@ -1,0 +1,39 @@
+<?xml version = "1.0"?>
+
+<!-- Fig. 15.1: article.xml       -->
+<!-- Article structured with XML. -->
+
+<article>
+
+   <title>Simple XML</title>
+
+   <date>December 21, 2001</date>
+
+   <author>
+      <firstName>John</firstName>
+      <lastName>Doe</lastName>
+   </author>
+
+   <summary>XML is pretty easy.</summary>
+
+   <content>In this chapter, we present a wide variety of examples that use XML.
+   </content>
+
+</article>
+
+<!-- 
+ ************************************************************************** 
+ * (C) Copyright 2002 by Deitel & Associates, Inc. and Prentice Hall.     *
+ * All Rights Reserved.                                                   *
+ *                                                                        *
+ * DISCLAIMER: The authors and publisher of this book have used their     *
+ * best efforts in preparing the book. These efforts include the          *
+ * development, research, and testing of the theories and programs        *
+ * to determine their effectiveness. The authors and publisher make       *
+ * no warranty of any kind, expressed or implied, with regard to these    *
+ * programs or to the documentation contained in these books. The authors *
+ * and publisher shall not be liable in any event for incidental or       *
+ * consequential damages in connection with, or arising out of, the       *
+ * furnishing, performance, or use of these programs.                     *
+ **************************************************************************
+-->
