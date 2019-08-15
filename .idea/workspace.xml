@@ -2,7 +2,281 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85e5ff80-d8c6-424b-97fb-9faa6e2d9a5b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Introduccion.html" beforeDir="false" afterPath="$PROJECT_DIR$/Introduccion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduccion.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROGRAMACION PYTHON BASICO.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pandas caso de uso/Pandas_Caso_de_Uso_Mi_Contabilidad.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pandas caso de uso/Pandas_Caso_de_Uso_Mi_Contabilidad.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pandas caso de uso/contabilidad.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch02/fig02_01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch02/fig02_04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch02/fig02_05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch02/fig02_07.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch02/fig02_13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch02/fig02_18.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch02/fig02_19.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch02/fig02_22.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch02/fig02_25.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch03/fig03_10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch03/fig03_13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch03/fig03_15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch03/fig03_17.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch03/fig03_18.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch03/fig03_22.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch03/fig03_23.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch03/fig03_24.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch03/fig03_25.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch03/fig03_26.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch04/fig04_04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch04/fig04_05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch04/fig04_06.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch04/fig04_07.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch04/fig04_08.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch04/fig04_10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch04/fig04_17.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch04/fig04_18.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch04/fig04_20.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch04/fig04_21.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch05/fig05_03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch05/fig05_05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch05/fig05_06.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch05/fig05_07.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch05/fig05_08.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch05/fig05_09.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch05/fig05_10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch05/fig05_11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch05/fig05_13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch05/fig05_16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch05/fig05_17.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch05/fig05_18.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch05/fig05_20.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch05/fig05_21.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch06/fig06_03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch06/fig06_05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch06/fig06_06.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch06/fig06_08.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch06/fig06_09.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch06/fig06_10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch06/fig06_11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch06/fig06_12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch07/Date.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch07/EmployeeComposition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch07/EmployeeWithClassAttribute.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch07/Private.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch07/Time1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch07/Time2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch07/Time3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch07/fig07_02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch07/fig07_09.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch07/fig07_14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch07/fig07_16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch07/fig07_19.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch08/NewDictionary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch08/NewList.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch08/PhoneNumber.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch08/RationalNumber.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch08/TimeAccess.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch08/fig08_10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch08/fig08_13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch08/fig08_16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch09/CircleModule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch09/CylinderModule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch09/EmployeeStatic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch09/NewList.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch09/PointModule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch09/Slots.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch09/TimeProperty.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch09/fig09_04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch09/fig09_05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch09/fig09_09.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch09/fig09_13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch09/fig09_15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch10/fig10_04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch10/fig10_06.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch10/fig10_07.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch10/fig10_08.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch10/fig10_09.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch10/fig10_11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch10/fig10_12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch10/fig10_14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch10/fig10_15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch10/fig10_16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch10/fig10_17.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch10/fig10_21.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch10/logotiny.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch10/logotiny.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch11/bug1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch11/bug2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch11/buganim.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch11/fig11_01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch11/fig11_02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch11/fig11_03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch11/fig11_04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch11/fig11_05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch11/fig11_07.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch11/travelbug.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch12/fig12_01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch12/fig12_03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch12/fig12_04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch12/fig12_05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch13/fig13_03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch13/fig13_04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch13/fig13_05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch13/fig13_06.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch13/fig13_07.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch13/fig13_08.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch13/fig13_09.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch13/fig13_11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch13/fig13_13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch13/fig13_14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch14/fig14_03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch14/fig14_06.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch14/fig14_07.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch14/fig14_09.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch14/fig14_10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch14/fig14_11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch14/fig14_12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch14/fig14_13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch15/Schema/book.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch15/Schema/book.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch15/ammonia.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch15/article.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch15/letter.dtd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch15/letter.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch15/letter2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch15/mathml/mathml1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch15/mathml/mathml2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch15/mathml/mathml3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch15/namespaces/defaultnamespace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch15/namespaces/namespace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch15/xsl/sorting.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch15/xsl/sorting.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch16/Apache/cgi-bin/addForum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch16/Apache/cgi-bin/addPost.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch16/Apache/cgi-bin/default.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch16/Apache/cgi-bin/fig16_02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch16/Apache/cgi-bin/forum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch16/Apache/cgi-bin/names.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch16/Apache/htdocs/error.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch16/Apache/htdocs/xml/contact_list.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch16/Apache/htdocs/xml/feedback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch16/Apache/htdocs/xml/formatting.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch16/Apache/htdocs/xml/forums.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch16/Apache/htdocs/xml/site.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch16/Apache/htdocs/xml/template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch16/article2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch16/boxes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch16/contacts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch16/fig16_04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch16/fig16_13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch16/fig16_16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch17/DBSetup/AddressBook.def" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch17/DBSetup/AddressBook.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch17/DBSetup/AuthorISBN.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch17/DBSetup/Authors.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch17/DBSetup/Books.def" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch17/DBSetup/Books.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch17/DBSetup/DBSetup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch17/DBSetup/Publishers.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch17/DBSetup/Titles.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch17/fig17_27.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch17/fig17_29.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch17/fig17_30.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch18/fig18_02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch18/fig18_03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch18/fig18_04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch18/fig18_05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch18/fig18_07.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch18/fig18_09.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch18/fig18_10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch18/fig18_14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch18/fig18_15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch19/CircularBuffer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch19/ConsumeFromQueue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch19/ConsumeInteger.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch19/ProduceInteger.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch19/ProduceToQueue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch19/SynchronizedInteger.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch19/UnsynchronizedInteger.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch19/fig19_02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch19/fig19_03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch19/fig19_07.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch19/fig19_09.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch19/fig19_11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch19/fig19_12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch19/fig19_14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch19/fig19_15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch20/fig20_01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch20/fig20_02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch20/fig20_03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch20/fig20_04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch20/fig20_05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch20/fig20_06.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch20/fig20_07.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch21/fig21_01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch21/fig21_09.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch21/fig21_10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch21/fig21_11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch22/ListModule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch22/QueueModule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch22/StackModule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch22/TreeModule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch22/fig22_04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch22/fig22_10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch22/fig22_12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch22/fig22_16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch24/data/Asteroid.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch24/data/Energy.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch24/data/Star.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch24/data/applause.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch24/data/bailey.mpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch24/data/collision.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch24/data/energy.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch24/data/ffd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch24/data/pause.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch24/data/play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch24/data/rwd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch24/data/shipCrashed.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch24/data/shipDown.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch24/data/shipLeft.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch24/data/shipRight.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch24/data/sound_locations.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch24/data/stop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch24/data/tonedown.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch24/data/toneup.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch24/fig24_01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch24/fig24_02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch24/fig24_04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch24/fig24_05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch24/fig24_06.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch25/MessageForums/addForum.psp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch25/MessageForums/addPost.psp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch25/MessageForums/data/xml/feedback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch25/MessageForums/data/xml/formatting.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch25/MessageForums/data/xml/forum.psp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch25/MessageForums/data/xml/forums.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch25/MessageForums/data/xml/site.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch25/MessageForums/data/xml/template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch25/MessageForums/default.psp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch25/banner.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch25/clock2.psp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch25/fig25_02.psp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch25/fig25_04.psp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch25/fig25_13.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch25/fig25_14.psp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch25/fig25_17.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch25/fig25_18.psp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch25/fig25_19.psp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch25/images/logotiny.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch25/include.psp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch25/insert.psp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Referencias/Python_How_to_program/examples/ch25/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clases/Animal_pato.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea 3/CalculadoraBasica.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea 4/carrera.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea 5/clinica.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea 6/us-500/us-500.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea 6/us-500/us-500.zip" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,73 +284,94 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-275868395">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="html" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="HTML" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="html" value="785" />
-          <entry key="txt" value="29" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="HTML" value="785" />
-          <entry key="PLAIN_TEXT" value="29" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/example.html">
+        <entry file="file://$PROJECT_DIR$/examples/while_example.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="35" selection-end-column="8" />
-              <folding>
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#4;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#5;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#6;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#7;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#8;n#body#0;n#html#0;n#!!top" />
-              </folding>
+            <state relative-caret-position="134">
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/while_example_sentinel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/while_example_controled.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/while_example_loop.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/for_example_loop.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/for_loop_range_example.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/for_range_format.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/for_example_range_break.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/while_example_break.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="129">
+              <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Introduccion.html">
+        <entry file="file://$PROJECT_DIR$/examples/for_example_range_continue.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="40" column="22" selection-end-line="80" selection-end-column="7" />
-              <folding>
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-              </folding>
+            <state relative-caret-position="340">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -97,14 +392,28 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Introduccion.html" />
+        <option value="$PROJECT_DIR$/examples/fig03_10.py" />
+        <option value="$PROJECT_DIR$/examples/while_example.py" />
+        <option value="$PROJECT_DIR$/examples/fig03_13.py" />
+        <option value="$PROJECT_DIR$/examples/while_example_sentinel.py" />
+        <option value="$PROJECT_DIR$/examples/fig03_15.py" />
+        <option value="$PROJECT_DIR$/examples/while_example_controled.py" />
+        <option value="$PROJECT_DIR$/examples/fig03_17.py" />
+        <option value="$PROJECT_DIR$/examples/while_example_loop.py" />
+        <option value="$PROJECT_DIR$/examples/fig03_18.py" />
+        <option value="$PROJECT_DIR$/examples/for_example_loop.py" />
+        <option value="$PROJECT_DIR$/examples/fig03_22.py" />
+        <option value="$PROJECT_DIR$/examples/for_loop_range_example.py" />
+        <option value="$PROJECT_DIR$/examples/fig03_23.py" />
+        <option value="$PROJECT_DIR$/examples/for_range_format.py" />
+        <option value="$PROJECT_DIR$/examples/fig03_24.py" />
+        <option value="$PROJECT_DIR$/examples/for_example_range_break.py" />
+        <option value="$PROJECT_DIR$/examples/fig03_25.py" />
+        <option value="$PROJECT_DIR$/examples/while_example_break.py" />
+        <option value="$PROJECT_DIR$/examples/fig03_26.py" />
+        <option value="$PROJECT_DIR$/examples/for_example_range_continue.py" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1" />
@@ -123,6 +432,11 @@
               <item name="PythonClassBook" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonClassBook" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PythonClassBook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonClassBook" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -132,8 +446,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PythonClassRoom.github.io" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -149,6 +464,127 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Python.fig03_26">
+    <configuration name="fig03_22" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonClassBook" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ecsa\Documents\GitHub\PythonClassBook\examples\for_loop_range_example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fig03_23" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonClassBook" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ecsa\Documents\GitHub\PythonClassBook\examples\for_range_format.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fig03_24" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonClassBook" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ecsa\Documents\GitHub\PythonClassBook\examples\for_example_range_break.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fig03_25" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonClassBook" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ecsa\Documents\GitHub\PythonClassBook\examples\while_example_break.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fig03_26" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonClassBook" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ecsa\Documents\GitHub\PythonClassBook\examples\for_example_range_continue.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.fig03_26" />
+        <item itemvalue="Python.fig03_25" />
+        <item itemvalue="Python.fig03_24" />
+        <item itemvalue="Python.fig03_23" />
+        <item itemvalue="Python.fig03_22" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -159,6 +595,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548291462115</updated>
+      <workItem from="1565889450888" duration="1025000" />
     </task>
     <task id="LOCAL-00001" summary="Primer ejemplo">
       <created>1548295135372</created>
@@ -205,15 +642,19 @@
     <option name="localTasksCounter" value="7" />
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1025000" />
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26172465" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2655068" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32993197" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32993197" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -234,9 +675,6 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primer ejemplo" />
     <MESSAGE value="ajuste" />
@@ -244,33 +682,88 @@
     <MESSAGE value="ajuste 2" />
     <option name="LAST_COMMIT_MESSAGE" value="ajuste 2" />
   </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonClassBook$fig03_13.coverage" NAME="fig03_13 Coverage Results" MODIFIED="1565889702175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
+    <SUITE FILE_PATH="coverage/PythonClassBook$fig03_10.coverage" NAME="fig03_10 Coverage Results" MODIFIED="1565889606724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
+    <SUITE FILE_PATH="coverage/PythonClassBook$fig03_24.coverage" NAME="fig03_24 Coverage Results" MODIFIED="1565890303703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
+    <SUITE FILE_PATH="coverage/PythonClassBook$fig03_23.coverage" NAME="fig03_23 Coverage Results" MODIFIED="1565890077260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
+    <SUITE FILE_PATH="coverage/PythonClassBook$fig03_26.coverage" NAME="fig03_26 Coverage Results" MODIFIED="1565890440177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
+    <SUITE FILE_PATH="coverage/PythonClassBook$fig03_15.coverage" NAME="fig03_15 Coverage Results" MODIFIED="1565889802786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
+    <SUITE FILE_PATH="coverage/PythonClassBook$fig03_17.coverage" NAME="fig03_17 Coverage Results" MODIFIED="1565889931240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
+    <SUITE FILE_PATH="coverage/PythonClassBook$fig03_22.coverage" NAME="fig03_22 Coverage Results" MODIFIED="1565890005797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
+    <SUITE FILE_PATH="coverage/PythonClassBook$fig03_25.coverage" NAME="fig03_25 Coverage Results" MODIFIED="1565890358645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
+    <SUITE FILE_PATH="coverage/PythonClassBook$fig03_18.coverage" NAME="fig03_18 Coverage Results" MODIFIED="1565889966917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/example.html">
+    <entry file="file://$PROJECT_DIR$/example.html" />
+    <entry file="file://$PROJECT_DIR$/Introduccion.html" />
+    <entry file="file://$PROJECT_DIR$/examples/while_example.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="35" selection-end-column="8" />
-          <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#7;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#8;n#body#0;n#html#0;n#!!top" />
-          </folding>
+        <state relative-caret-position="134">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Introduccion.html">
+    <entry file="file://$PROJECT_DIR$/examples/while_example_sentinel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="40" column="22" selection-end-line="80" selection-end-column="7" />
-          <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
+        <state relative-caret-position="544">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/while_example_controled.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/while_example_loop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/for_example_loop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/for_example_range_break.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/for_loop_range_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/for_range_format.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/while_example_break.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/for_example_range_continue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
         </state>
       </provider>
     </entry>

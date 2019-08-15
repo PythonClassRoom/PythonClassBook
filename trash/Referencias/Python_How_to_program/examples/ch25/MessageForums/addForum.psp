@@ -1,0 +1,147 @@
+<?xml version = "1.0"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<!-- Fig. 25.26: addForum.psp            -->
+<!-- Adds a forum to the list of forums. -->
+
+<%-- import modules and specify indent type --%>
+<%@ page imports = "re" %>
+<%@ page imports = "xml.dom.ext.reader:PyExpat" %>
+<%@ page imports = "xml.dom.ext:PrettyPrint" %>
+<%@ page indentType = "braces" %>
+
+<html xmlns = "http://www.w3.org/1999/xhtml">
+
+   <head>
+      <title>Add a Forum</title>
+      <link rel = "stylesheet" href = "data/xml/site.css"
+         type = "text/css" />
+   </head>
+
+   <body>
+      <% # have form fields filled
+         if req.hasField( "name" ) and \
+            req.hasField( "filename" ): {
+            newFile = req.field( "filename" )
+                
+            # filename must have suffix .xml
+            if not re.match( "\w+\.xml$", newFile ): {
+               res.write( """<h1>Error: File name should
+                  end with ".xml".</h1>""" )
+            }
+            else: {
+
+               # open xml files
+               try: {
+                  filePath = "PSP/Examples/ch25/MessageForums" \
+                     + "/data/xml/"
+                  newForumFile = open( filePath + newFile, "w" )
+                  forumsFile = \
+                     open( filePath + "forums.xml", "r+" )
+                  templateFile = \
+                     open( filePath + "template.xml" )
+                  noError = 1
+               }
+               except IOError: {
+                  res.write( 
+                     """<h1>Error: Cannot open files.</h1>""" )
+                  noError = 0
+               }
+
+               # update old files and create new file
+               if noError: {
+
+                  # parse old forums document
+                  reader = PyExpat.Reader()
+                  document = reader.fromStream( forumsFile )
+
+                  # add new forum to DOM object
+                  forum = document.createElement( "forum" )
+                  forum.setAttribute( "filename", newFile )
+
+                  name = document.createElement( "name" )
+                  nameText = document.createTextNode( 
+                     req.field( "name" ) )
+                  name.appendChild( nameText )
+                  forum.appendChild( name )
+
+                  documentNode = document.documentElement
+                  firstForum = documentNode.getElementsByTagName(
+                     "forum" )[ 0 ]
+                  documentNode.insertBefore( forum, firstForum )
+   
+                  # write updated DOM object to forums document
+                  forumsFile.seek( 0, 0 )
+                  forumsFile.truncate()
+                  PrettyPrint( document, forumsFile )
+                  forumsFile.close()
+
+                  # create document for new forum from
+                  # template file
+                  document = reader.fromStream( templateFile )
+                  forum = document.documentElement
+                  forum.setAttribute( "file", newFile )
+
+                  name = document.createElement( "name" )
+                  nameText = document.createTextNode( 
+                     req.field( "name" ) )
+                  name.appendChild( nameText )
+                  forum.appendChild( name )
+
+                  # write created DOM object to new forum file
+                  PrettyPrint( document, newForumFile )
+                  newForumFile.close()
+                  templateFile.close()
+                  reader.releaseNode( document )
+
+                  # forward to default page
+                  trans.application().forward( 
+                     trans, 'default.psp' )
+
+               } # end if
+
+            } # end else
+
+         } # end if
+
+         # create form
+         else: {
+            res.write( """
+               <form action = "addForum.psp" method="post">
+               Forum Name<br />
+                  <input type = "text" name = "name"
+                     size = "40" /><br />
+                  Forum File Name<br />
+                  <input type = "text" name = "filename"
+                     size = "40" /><br />
+                  <input type = "submit" name = "submit"
+                     value = "Submit" />
+                  <input type = "reset" value = "Reset" />
+               </form>
+
+               <a href = "default.psp">
+                  Return to Main Page</a>""" )
+
+         } # end else
+
+      %> <!-- end script -->
+   </body>
+</html>
+
+<!-- 
+ ************************************************************************** 
+ * (C) Copyright 2002 by Deitel & Associates, Inc. and Prentice Hall.     *
+ * All Rights Reserved.                                                   *
+ *                                                                        *
+ * DISCLAIMER: The authors and publisher of this book have used their     *
+ * best efforts in preparing the book. These efforts include the          *
+ * development, research, and testing of the theories and programs        *
+ * to determine their effectiveness. The authors and publisher make       *
+ * no warranty of any kind, expressed or implied, with regard to these    *
+ * programs or to the documentation contained in these books. The authors *
+ * and publisher shall not be liable in any event for incidental or       *
+ * consequential damages in connection with, or arising out of, the       *
+ * furnishing, performance, or use of these programs.                     *
+ **************************************************************************
+-->

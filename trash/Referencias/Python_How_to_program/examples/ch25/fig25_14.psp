@@ -1,0 +1,86 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<!-- Fig. 25.14: fig25_14.psp                            -->
+<!-- PSP that processes a "get" request containing data. -->
+
+<%-- specify indent type --%>
+<%@ page indentType = "spaces" %>
+<%@ page indentSpaces = "3" %>
+<%@ page imports = "__future__:division" %>
+
+<%-- define a psp method --%>
+<psp:method name = "calculate" 
+   params = "operand1, operator, operand2" >
+
+if operator == "+":      # addition operation
+   result = operand1 + operand2 
+
+elif operator == "-":    # subtraction operation
+   result = operand1 - operand2 
+
+elif operator == "*":    # multiplication operation
+   result = operand1 * operand2
+
+elif operator == "/":    # division operation
+   result = operand1 / operand2
+
+elif operator == "//":   # floor division
+   result = operand1 // operand2
+
+else:                    # unrecognizable operator
+   result = None
+
+return result
+
+</psp:method> <%-- end psp method declaration --%>
+
+
+<html xmlns = "http://www.w3.org/1999/xhtml">
+
+   <!-- head section of document -->
+   <head>
+      <title>Calculator Result</title>
+   </head>
+
+   <!-- body section of document -->
+   <body>
+      <h1>Python Calculator Result</h1>
+
+      <%-- get client input --%>
+      <% 
+         try:
+            operand1 = float( req.field( "operand1" ) )
+            operator = req.field( "operator", "+" )
+            operand2 = float( req.field( "operand2" ) )
+            noError = 1 $%>
+      <% except Exception: 
+            res.write( "You did not enter a number." )
+            noError = 0 $%> 
+
+      <%-- display expression --%>
+      <% if noError: %>
+         <br />
+         <%= operand1 %> <%= operator %> <%= operand2 %> = 
+         <%= self.calculate( operand1, operator, operand2 ) %>
+      <% end %>
+   </body>
+
+</html>  <!-- end XHTML document -->
+
+<!-- 
+ ************************************************************************** 
+ * (C) Copyright 2002 by Deitel & Associates, Inc. and Prentice Hall.     *
+ * All Rights Reserved.                                                   *
+ *                                                                        *
+ * DISCLAIMER: The authors and publisher of this book have used their     *
+ * best efforts in preparing the book. These efforts include the          *
+ * development, research, and testing of the theories and programs        *
+ * to determine their effectiveness. The authors and publisher make       *
+ * no warranty of any kind, expressed or implied, with regard to these    *
+ * programs or to the documentation contained in these books. The authors *
+ * and publisher shall not be liable in any event for incidental or       *
+ * consequential damages in connection with, or arising out of, the       *
+ * furnishing, performance, or use of these programs.                     *
+ **************************************************************************
+-->
