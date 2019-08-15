@@ -1,4 +1,4 @@
-# Fig. 4.20: fig04_20.py
+# Fig. 4.20: default_parameters_example.py
 # Using default arguments.
 
 # function definition with default arguments

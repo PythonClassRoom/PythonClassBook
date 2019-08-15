@@ -1,4 +1,4 @@
-# Fig. 4.8: fig04_08.py
+# Fig. 4.8: rollingdice_example.py
 # Craps.
 
 import random

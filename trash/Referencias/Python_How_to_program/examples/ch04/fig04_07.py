@@ -1,4 +1,4 @@
-# Fig. 4.7: fig04_07.py
+# Fig. 4.7: dice_example.py
 # Roll a six-sided die 6000 times.
 
 import random

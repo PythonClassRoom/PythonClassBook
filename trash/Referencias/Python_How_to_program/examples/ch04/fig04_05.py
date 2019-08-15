@@ -1,4 +1,4 @@
-# Fig. 4.5: fig04_05.py
+# Fig. 4.5: function_example_maxnumber.py
 # Finding the maximum of three integers.
 
 def maximumValue( x, y, z ):

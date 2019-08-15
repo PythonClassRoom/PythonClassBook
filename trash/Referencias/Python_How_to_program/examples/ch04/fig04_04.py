@@ -1,4 +1,4 @@
-# Fig. 4.4: fig04_04.py
+# Fig. 4.4: function_example.py
 # Creating and using a programmer-defined function.
 
 # function definition

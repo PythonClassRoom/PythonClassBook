@@ -1,4 +1,4 @@
-# Fig. 4.17: fig04_17.py
+# Fig. 4.17: recursive_function.py
 # Recursive factorial function.
 
 # Recursive definition of function factorial

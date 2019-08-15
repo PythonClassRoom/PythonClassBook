@@ -1,4 +1,4 @@
-# Fig. 4.10: fig04_10.py
+# Fig. 4.10: initial_scoping_example.py
 # Scoping example.
 
 x = 1 # global variable
