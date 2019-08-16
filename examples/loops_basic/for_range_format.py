@@ -1,4 +1,4 @@
-# Fig. 3.23: for_range_format.py
+
 # Calculating compound interest.
 
 principal = 1000.0   # starting principal

@@ -1,4 +1,4 @@
-# Fig. 3.15: while_example_controled.py
+
 # Analysis of examination results.
 
 # initialize variables

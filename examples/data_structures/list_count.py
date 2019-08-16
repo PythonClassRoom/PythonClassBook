@@ -1,4 +1,4 @@
-# Fig. 5.11: list_count.py
+
 # Student poll program.
 
 responses = [ 1, 2, 6, 4, 8, 5, 9, 7, 8, 10,

@@ -1,4 +1,4 @@
-# Fig. 3.17: while_example_loop.py
+
 # Counter-controlled repetition.
 
 counter = 0

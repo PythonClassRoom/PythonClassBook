@@ -1,4 +1,4 @@
-# Fig. 3.26: for_example_range_continue.py
+
 # Using the continue statement in a for/in structure.
 
 for x in range( 1, 11 ):

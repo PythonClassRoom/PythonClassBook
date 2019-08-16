@@ -1,4 +1,4 @@
-# Fig. 5.10: list_append.py
+
 # Appending items to a list.
 
 playList = []     # list of favorite plays

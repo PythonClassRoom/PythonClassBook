@@ -1,4 +1,4 @@
-# Fig. 7.16: fig07_16.py
+# Fig. 7.16: class_attributes_access_example.py
 # Demonstrating class attribute access.
 
 from EmployeeWithClassAttribute import Employee

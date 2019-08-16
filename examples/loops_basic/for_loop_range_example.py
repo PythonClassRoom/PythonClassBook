@@ -1,4 +1,4 @@
-# Fig. 3.22: for_loop_range_example.py
+
 # Summation with for.
 
 sum = 0

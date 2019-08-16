@@ -1,4 +1,4 @@
-# Fig. 7.14: fig07_14.py
+# Fig. 7.14: default_constructor.py
 # Demonstrating default constructor method for class Time.
 
 from Time3 import Time

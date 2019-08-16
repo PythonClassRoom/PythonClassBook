@@ -1,4 +1,4 @@
-# Fig. 5.13: dictionary_loop_key_example.py
+
 # Dictionary methods.
 
 monthsDictionary = { 1 : "January", 2 : "February", 3 : "March",

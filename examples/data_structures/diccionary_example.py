@@ -1,4 +1,4 @@
-# Fig. 5.9: diccionary_example.py
+
 # Creating, accessing and modifying a dictionary.
 
 # create and print an empty dictionary

@@ -1,4 +1,4 @@
-# Fig. 4.21: keyword_paramters_example.py
+
 # Keyword arguments example.
 
 def generateWebsite( name, url = "www.deitel.com",

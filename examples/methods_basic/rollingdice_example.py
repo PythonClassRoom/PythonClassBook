@@ -1,4 +1,4 @@
-# Fig. 4.8: rollingdice_example.py
+
 # Craps.
 
 import random

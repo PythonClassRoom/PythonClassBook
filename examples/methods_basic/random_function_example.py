@@ -1,4 +1,4 @@
-# Fig. 4.6: random_function_example.py
+
 # Random integers produced by randrange.
 
 import random

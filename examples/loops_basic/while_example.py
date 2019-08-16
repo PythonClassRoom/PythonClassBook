@@ -1,4 +1,4 @@
-# Fig. 3.10: while_example.py
+
 # Class average program with counter-controlled repetition.
 
 # initialization phase

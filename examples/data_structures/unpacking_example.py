@@ -1,4 +1,4 @@
-# Fig. 5.7: unpacking_example.py
+
 # Unpacking sequences.
 
 # create sequences

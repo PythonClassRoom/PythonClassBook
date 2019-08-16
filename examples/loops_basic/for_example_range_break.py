@@ -1,4 +1,4 @@
-# Fig. 3.24: for_example_range_break.py
+
 # Using the break statement in a for structure.
 
 for x in range( 1, 11 ):

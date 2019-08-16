@@ -1,4 +1,4 @@
-# Fig. 3.25: while_example_break.py
+
 # Using the break statement to avoid repeating code
 # in the class-average program.
 

@@ -1,4 +1,4 @@
-# Fig. 5.17: list_example_sort.py
+
 # Sorting a list.
 
 aList = [ 2, 6, 4, 8, 10, 12, 89, 68, 45, 37 ]

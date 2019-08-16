@@ -1,4 +1,4 @@
-# Fig. 7.2: fig07_02.py
+# Fig. 7.2: object_manipulation.py
 # Creating and manipulating objects of class Time.
 
 from Time1 import Time  # import class definition from file

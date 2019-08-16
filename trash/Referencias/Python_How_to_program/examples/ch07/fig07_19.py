@@ -1,4 +1,4 @@
-# Fig. 7.19: fig07_19.py
+# Fig. 7.19: employees_objects_example.py
 # Demonstrating composition: an object with member objects.
 
 from Date import Date

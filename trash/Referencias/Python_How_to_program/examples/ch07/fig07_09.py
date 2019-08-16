@@ -1,4 +1,4 @@
-# Fig. 7.9: fig07_09.py
+# Fig. 7.9: object_set_example.py
 # Driver to test class TimeControl.
 
 from Time2 import Time

@@ -1,4 +1,4 @@
-# Fig. 4.18: fibonacci_example.py
+
 # Recursive fibonacci function.
 
 def fibonacci( n ):

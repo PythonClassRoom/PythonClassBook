@@ -1,4 +1,4 @@
-# Fig. 3.13: while_example_sentinel.py
+
 # Class average program with sentinel-controlled repetiton.
 
 # initialization phase
