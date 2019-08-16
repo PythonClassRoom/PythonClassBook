@@ -1,4 +1,4 @@
-# Fig. 8.13: fig08_13.py
+# Fig. 8.13: list_instantion_example.py
 # Driver for simple class SingleList.
 
 from NewList import SingleList

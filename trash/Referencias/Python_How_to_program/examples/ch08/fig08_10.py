@@ -1,4 +1,4 @@
-# Fig. 8.10: fig08_10.py
+# Fig. 8.10: relationalNumber_example.py
 # Driver for class Rational.
 
 from RationalNumber import Rational

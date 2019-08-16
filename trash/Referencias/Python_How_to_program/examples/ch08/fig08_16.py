@@ -1,4 +1,4 @@
-# Fig. 8.16: fig08_16.py
+# Fig. 8.16: dictionary_instantation_example.py
 # Driver for class SimpleDictionary.
 
 from NewDictionary import SimpleDictionary
