@@ -1,4 +1,4 @@
-# Fig. 5.21: fig05_21.py
+# Fig. 5.21: list_multi_subscripts.py
 # Double-subscripted list example.
 
 

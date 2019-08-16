@@ -1,4 +1,4 @@
-# Fig. 5.3: fig05_03.py
+# Fig. 5.3: list_example_adding.py
 # Creating, accessing and changing a list.
 
 aList = []    # create empty list

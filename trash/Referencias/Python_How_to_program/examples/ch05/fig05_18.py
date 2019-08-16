@@ -1,4 +1,4 @@
-# Fig. 5.18: fig05_18.py
+# Fig. 5.18: list_index_example.py
 # Searching a list for an integer.
 
 # Create a list of even integers 0 to 198

@@ -1,4 +1,4 @@
-# Fig. 5.20: fig05_20.py
+# Fig. 5.20: list_tuples_loops.py
 # Making tables using lists of lists and tuples of tuples.
 
 table1 = [ [ 1, 2, 3 ], [ 4, 5, 6 ] ]

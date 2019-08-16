@@ -1,4 +1,4 @@
-# Fig. 5.5: fig05_05.py
+# Fig. 5.5: histogram_example.py
 # Creating a histogram from a list of values.
 
 values = []   # a list of values

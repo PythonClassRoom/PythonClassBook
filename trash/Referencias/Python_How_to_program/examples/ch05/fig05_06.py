@@ -1,4 +1,4 @@
-# Fig. 5.6: fig05_06.py
+# Fig. 5.6: tuple_example.py
 # Creating and accessing tuples.
 
 # retrieve hour, minute and second from user

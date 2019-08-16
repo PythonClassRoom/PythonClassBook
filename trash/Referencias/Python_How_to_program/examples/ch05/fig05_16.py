@@ -1,4 +1,4 @@
-# Fig. 5.16: fig05_16.py
+# Fig. 5.16: list_modified.py
 # Passing lists and individual list elements to functions.
 
 def modifyList( aList ):

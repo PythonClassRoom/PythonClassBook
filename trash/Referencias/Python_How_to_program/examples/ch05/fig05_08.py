@@ -1,4 +1,4 @@
-# Fig. 5.8: fig05_08.py
+# Fig. 5.8: slicing_example.py
 # Slicing sequences.
 
 # create sequence
