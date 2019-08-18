@@ -1,4 +1,4 @@
-# Fig 9.9: fig09_09.py
+# Fig 9.9: class_hierarchy_example.py
 # Creating a class hierarchy with an abstract base class.
 
 class Employee:

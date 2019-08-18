@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85e5ff80-d8c6-424b-97fb-9faa6e2d9a5b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/examples/iterator/hypercube_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/iterator/iterator_example.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/Referencias/Python_How_to_program/examples/ch08/fig08_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/trash/Referencias/Python_How_to_program/examples/ch08/fig08_10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/Referencias/Python_How_to_program/examples/ch08/fig08_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/trash/Referencias/Python_How_to_program/examples/ch08/fig08_13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/Referencias/Python_How_to_program/examples/ch08/fig08_16.py" beforeDir="false" afterPath="$PROJECT_DIR$/trash/Referencias/Python_How_to_program/examples/ch08/fig08_16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/Referencias/Python_How_to_program/examples/ch09/fig09_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/trash/Referencias/Python_How_to_program/examples/ch09/fig09_04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/Referencias/Python_How_to_program/examples/ch09/fig09_05.py" beforeDir="false" afterPath="$PROJECT_DIR$/trash/Referencias/Python_How_to_program/examples/ch09/fig09_05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/Referencias/Python_How_to_program/examples/ch09/fig09_09.py" beforeDir="false" afterPath="$PROJECT_DIR$/trash/Referencias/Python_How_to_program/examples/ch09/fig09_09.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/Referencias/Python_How_to_program/examples/ch09/fig09_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/trash/Referencias/Python_How_to_program/examples/ch09/fig09_13.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -37,7 +41,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -51,8 +55,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.fig08_16">
-    <configuration name="PhoneNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.iterator_example">
+    <configuration name="TimeProperty" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonClassBook" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,7 +69,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/PhoneNumber.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/TimeProperty.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fig08_13" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="fig09_09" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonClassBook" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,7 +91,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\ecsa\Documents\GitHub\PythonClassBook\examples\list_instantion_example.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ecsa\Documents\GitHub\PythonClassBook\examples\class_hierarchy_example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fig08_16" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="fig09_15" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonClassBook" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,7 +113,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\ecsa\Documents\GitHub\PythonClassBook\examples\dictionary_instantation_example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/fig09_15.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="relationalNumber_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hypercube_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonClassBook" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,12 +130,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples/iterator" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/relationalNumber_example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/iterator/hypercube_example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,29 +144,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in PhoneNumber.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="iterator_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonClassBook" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples/iterator" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/examples/PhoneNumber.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/iterator/iterator_example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.fig08_16" />
-        <item itemvalue="Python.fig08_13" />
-        <item itemvalue="Python.relationalNumber_example" />
-        <item itemvalue="Python.PhoneNumber" />
-        <item itemvalue="Python tests.pytest in PhoneNumber.py" />
+        <item itemvalue="Python.iterator_example" />
+        <item itemvalue="Python.hypercube_example" />
+        <item itemvalue="Python.fig09_15" />
+        <item itemvalue="Python.fig09_09" />
+        <item itemvalue="Python.TimeProperty" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +189,8 @@
       <workItem from="1565889450888" duration="6486000" />
       <workItem from="1565971199656" duration="581000" />
       <workItem from="1565976409838" duration="144000" />
-      <workItem from="1565976580495" duration="8977000" />
+      <workItem from="1565976580495" duration="10384000" />
+      <workItem from="1566143098145" duration="5894000" />
     </task>
     <task id="LOCAL-00001" summary="Primer ejemplo">
       <created>1548295135372</created>
@@ -251,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565987911536</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="for examples">
+      <created>1565994132574</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1565994132574</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -262,7 +280,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -276,33 +296,22 @@
     <MESSAGE value="for examples" />
     <option name="LAST_COMMIT_MESSAGE" value="for examples" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/examples/relationalNumber_example.py</url>
-          <line>37</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/examples/RationalNumber.py</url>
-          <line>50</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonClassBook$fig04_20.coverage" NAME="fig04_20 Coverage Results" MODIFIED="1565895316467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
     <SUITE FILE_PATH="coverage/PythonClassBook$default_constructor.coverage" NAME="default_constructor Coverage Results" MODIFIED="1565987194907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
+    <SUITE FILE_PATH="coverage/PythonClassBook$CylinderModule.coverage" NAME="CylinderModule Coverage Results" MODIFIED="1565995242927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
     <SUITE FILE_PATH="coverage/PythonClassBook$fig05_20.coverage" NAME="fig05_20 Coverage Results" MODIFIED="1565985814745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
     <SUITE FILE_PATH="coverage/PythonClassBook$fig04_17.coverage" NAME="fig04_17 Coverage Results" MODIFIED="1565892984117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
     <SUITE FILE_PATH="coverage/PythonClassBook$fig03_23.coverage" NAME="fig03_23 Coverage Results" MODIFIED="1565890077260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
     <SUITE FILE_PATH="coverage/PythonClassBook$pytest_in_PhoneNumber_py.coverage" NAME="pytest in PhoneNumber.py Coverage Results" MODIFIED="1565989576472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
+    <SUITE FILE_PATH="coverage/PythonClassBook$NewList.coverage" NAME="NewList Coverage Results" MODIFIED="1565995262387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
     <SUITE FILE_PATH="coverage/PythonClassBook$fig03_17.coverage" NAME="fig03_17 Coverage Results" MODIFIED="1565889931240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
     <SUITE FILE_PATH="coverage/PythonClassBook$fig03_26.coverage" NAME="fig03_26 Coverage Results" MODIFIED="1565890440177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
+    <SUITE FILE_PATH="coverage/PythonClassBook$fig09_04.coverage" NAME="fig09_04 Coverage Results" MODIFIED="1565995249158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
     <SUITE FILE_PATH="coverage/PythonClassBook$PhoneNumber.coverage" NAME="PhoneNumber Coverage Results" MODIFIED="1565989865471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
+    <SUITE FILE_PATH="coverage/PythonClassBook$hypercube_example.coverage" NAME="hypercube_example Coverage Results" MODIFIED="1566152902519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples/iterator" />
     <SUITE FILE_PATH="coverage/PythonClassBook$Time2.coverage" NAME="Time2 Coverage Results" MODIFIED="1565987269164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
+    <SUITE FILE_PATH="coverage/PythonClassBook$TimeProperty.coverage" NAME="TimeProperty Coverage Results" MODIFIED="1565995383453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
     <SUITE FILE_PATH="coverage/PythonClassBook$fig08_16.coverage" NAME="fig08_16 Coverage Results" MODIFIED="1565994017486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
     <SUITE FILE_PATH="coverage/PythonClassBook$object_set_example.coverage" NAME="object_set_example Coverage Results" MODIFIED="1565987385682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
     <SUITE FILE_PATH="coverage/PythonClassBook$fig04_10.coverage" NAME="fig04_10 Coverage Results" MODIFIED="1565892869290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
@@ -311,15 +320,22 @@
     <SUITE FILE_PATH="coverage/PythonClassBook$fig04_04.coverage" NAME="fig04_04 Coverage Results" MODIFIED="1565892043246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
     <SUITE FILE_PATH="coverage/PythonClassBook$fig03_10.coverage" NAME="fig03_10 Coverage Results" MODIFIED="1565889606724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
     <SUITE FILE_PATH="coverage/PythonClassBook$fig08_13.coverage" NAME="fig08_13 Coverage Results" MODIFIED="1565993916344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
+    <SUITE FILE_PATH="coverage/PythonClassBook$fig09_05.coverage" NAME="fig09_05 Coverage Results" MODIFIED="1565995251833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
+    <SUITE FILE_PATH="coverage/PythonClassBook$fig09_13.coverage" NAME="fig09_13 Coverage Results" MODIFIED="1565995256879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
     <SUITE FILE_PATH="coverage/PythonClassBook$fig03_22.coverage" NAME="fig03_22 Coverage Results" MODIFIED="1565890005797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
     <SUITE FILE_PATH="coverage/PythonClassBook$fig05_05.coverage" NAME="fig05_05 Coverage Results" MODIFIED="1565898996733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
+    <SUITE FILE_PATH="coverage/PythonClassBook$PointModule.coverage" NAME="PointModule Coverage Results" MODIFIED="1565995264726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
     <SUITE FILE_PATH="coverage/PythonClassBook$Date.coverage" NAME="Date Coverage Results" MODIFIED="1565986487593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
     <SUITE FILE_PATH="coverage/PythonClassBook$fig05_11.coverage" NAME="fig05_11 Coverage Results" MODIFIED="1565900067934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
     <SUITE FILE_PATH="coverage/PythonClassBook$fig05_17.coverage" NAME="fig05_17 Coverage Results" MODIFIED="1565977197084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
     <SUITE FILE_PATH="coverage/PythonClassBook$fig04_05.coverage" NAME="fig04_05 Coverage Results" MODIFIED="1565892307660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
+    <SUITE FILE_PATH="coverage/PythonClassBook$Slots.coverage" NAME="Slots Coverage Results" MODIFIED="1565995270804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
+    <SUITE FILE_PATH="coverage/PythonClassBook$fig09_15.coverage" NAME="fig09_15 Coverage Results" MODIFIED="1566148947791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
     <SUITE FILE_PATH="coverage/PythonClassBook$object_manipulation.coverage" NAME="object_manipulation Coverage Results" MODIFIED="1565987539201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
     <SUITE FILE_PATH="coverage/PythonClassBook$fig05_09.coverage" NAME="fig05_09 Coverage Results" MODIFIED="1565899412934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
     <SUITE FILE_PATH="coverage/PythonClassBook$EmployeeComposition.coverage" NAME="EmployeeComposition Coverage Results" MODIFIED="1565986567569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
+    <SUITE FILE_PATH="coverage/PythonClassBook$fig09_09.coverage" NAME="fig09_09 Coverage Results" MODIFIED="1565995458993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
+    <SUITE FILE_PATH="coverage/PythonClassBook$EmployeeStatic.coverage" NAME="EmployeeStatic Coverage Results" MODIFIED="1565995246258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
     <SUITE FILE_PATH="coverage/PythonClassBook$fig04_06.coverage" NAME="fig04_06 Coverage Results" MODIFIED="1565892360290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
     <SUITE FILE_PATH="coverage/PythonClassBook$fig05_03.coverage" NAME="fig05_03 Coverage Results" MODIFIED="1565898760655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
     <SUITE FILE_PATH="coverage/PythonClassBook$Time1.coverage" NAME="Time1 Coverage Results" MODIFIED="1565987296925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
@@ -327,6 +343,7 @@
     <SUITE FILE_PATH="coverage/PythonClassBook$fig03_15.coverage" NAME="fig03_15 Coverage Results" MODIFIED="1565889802786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
     <SUITE FILE_PATH="coverage/PythonClassBook$relationalNumber_example.coverage" NAME="relationalNumber_example Coverage Results" MODIFIED="1565993111590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
     <SUITE FILE_PATH="coverage/PythonClassBook$fig03_18.coverage" NAME="fig03_18 Coverage Results" MODIFIED="1565889966917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
+    <SUITE FILE_PATH="coverage/PythonClassBook$CircleModule.coverage" NAME="CircleModule Coverage Results" MODIFIED="1565995239732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
     <SUITE FILE_PATH="coverage/PythonClassBook$fig04_21.coverage" NAME="fig04_21 Coverage Results" MODIFIED="1565895381703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
     <SUITE FILE_PATH="coverage/PythonClassBook$Private.coverage" NAME="Private Coverage Results" MODIFIED="1565987378652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
     <SUITE FILE_PATH="coverage/PythonClassBook$fig03_24.coverage" NAME="fig03_24 Coverage Results" MODIFIED="1565890303703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
@@ -342,5 +359,6 @@
     <SUITE FILE_PATH="coverage/PythonClassBook$fig05_08.coverage" NAME="fig05_08 Coverage Results" MODIFIED="1565899324109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
     <SUITE FILE_PATH="coverage/PythonClassBook$fig04_08.coverage" NAME="fig04_08 Coverage Results" MODIFIED="1565892678433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
     <SUITE FILE_PATH="coverage/PythonClassBook$fig03_25.coverage" NAME="fig03_25 Coverage Results" MODIFIED="1565890358645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
+    <SUITE FILE_PATH="coverage/PythonClassBook$iterator_example.coverage" NAME="iterator_example Coverage Results" MODIFIED="1566157167296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples/iterator" />
   </component>
 </project>

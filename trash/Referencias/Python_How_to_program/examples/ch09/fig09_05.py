@@ -1,4 +1,4 @@
-# Fig. 9.5: fig09_05.py
+# Fig. 9.5: Overriding_base_class_methods.py
 # Overriding base-class methods.
 
 class Employee:

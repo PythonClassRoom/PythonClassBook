@@ -1,4 +1,4 @@
-# Fig. 9.13: fig09_13.py
+# Fig. 9.13: especialization_example.py
 # Program that uses SingleList
 
 from NewList import SingleList

@@ -1,4 +1,4 @@
-# Fig 9.4: fig09_04.py
+# Fig 9.4: Derivaded_class_example.py
 # Derived class inheriting from a base class.
 
 import math
