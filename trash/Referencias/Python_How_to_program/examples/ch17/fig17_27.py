@@ -61,7 +61,7 @@ allRecords = cursor.fetchall()  # get records
 cursor.close()
 connection.close()
 
-# output results in a table
+# arqui_recipe results in a table
 print """\n<table border = "1" cellpadding = "3" >
       <tr bgcolor = "silver" >"""
 

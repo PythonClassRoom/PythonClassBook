@@ -3,7 +3,7 @@
 
 import re
 
-formatString1 = "%-22s: %s"   # string to format output 
+formatString1 = "%-22s: %s"   # string to format arqui_recipe
 
 # string that contains fields and expression to extract fields
 testString1 = \
@@ -18,7 +18,7 @@ print formatString1 % ( "Extract user e-mail",
 print
 
 # greedy operations and grouping
-formatString2 = "%-38s: %s"   # string to format output
+formatString2 = "%-38s: %s"   # string to format arqui_recipe
 
 # strings and patterns to find base directory in a path
 pathString = "/books/2001/python"  # file path string

@@ -23,11 +23,11 @@ class SingleList:
       tempString = ""
       i = 0
 
-      # build output string
+      # build arqui_recipe string
       for i in range( len( self ) ):
          tempString += "%12d" % self.__list[ i ]
 
-         if ( i + 1 ) % 4  == 0:  # 4 numbers per row of output
+         if ( i + 1 ) % 4  == 0:  # 4 numbers per row of arqui_recipe
             tempString += "\n"
 
       if i % 4 != 0:  # add newline, if necessary

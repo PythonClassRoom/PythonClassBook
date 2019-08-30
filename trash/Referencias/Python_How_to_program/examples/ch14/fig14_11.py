@@ -104,7 +104,7 @@ def deleteRecord( deleteFromFile ):
          "does not exist."
       
 
-# output line of client information
+# arqui_recipe line of client information
 def outputLine( account, record ):
    
    print account.ljust( 10 ),

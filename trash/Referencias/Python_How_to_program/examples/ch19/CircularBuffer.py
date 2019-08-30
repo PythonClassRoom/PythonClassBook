@@ -41,7 +41,7 @@ class CircularBuffer:
       self.occupiedBufferCount += 1
 
       # update writeLocation for future write operation
-      # add current state to output
+      # add current state to arqui_recipe
       self.writeLocation = ( self.writeLocation + 1 ) % \
          len( self.buffer )
       self.displayState()  
@@ -73,7 +73,7 @@ class CircularBuffer:
       self.occupiedBufferCount -= 1
 
       # update readLocation for future read operation
-      # add current state to output
+      # add current state to arqui_recipe
       self.readLocation = ( self.readLocation + 1 ) % \
          len( self.buffer )
       self.displayState()  

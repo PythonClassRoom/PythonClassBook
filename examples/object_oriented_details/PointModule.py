@@ -23,7 +23,7 @@ def main():
    print("X coordinate is:", point.x)
    print("Y coordinate is:", point.y)
 
-   # change point attributes and output new location
+   # change point attributes and arqui_recipe new location
    point.x = 10
    point.y = 10
 

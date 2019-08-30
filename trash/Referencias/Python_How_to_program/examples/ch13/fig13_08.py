@@ -4,7 +4,7 @@
 import re
 
 testString = "Hello world"
-formatString = "%-35s: %s"   # string for formatting the output
+formatString = "%-35s: %s"   # string for formatting the arqui_recipe
 
 # create regular expression and compiled expression
 expression = "Hello"

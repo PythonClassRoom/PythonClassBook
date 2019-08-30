@@ -40,7 +40,7 @@ def main():
       # changing the value of attribute X
       point.X = newValue
 
-      # output unchanged attribute x
+      # arqui_recipe unchanged attribute x
       print "The new value of point.x is:", point.x
 
 if __name__ == "__main__":

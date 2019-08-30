@@ -23,7 +23,7 @@ def function3():
 try:
    function1()
 
-# output exception arguments, string representation of exception,
+# arqui_recipe exception arguments, string representation of exception,
 # and the traceback
 except Exception, exception:
    print "Exception caught in main program."

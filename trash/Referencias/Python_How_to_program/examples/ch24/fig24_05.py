@@ -28,7 +28,7 @@ def createGUI( file ):
    screen.blit( playImage, playImageSize )
    pygame.display.flip()
 
-   # set output surface for movie's video
+   # set arqui_recipe surface for movie's video
    movie.set_display( screen )
 
    return movie, playImageSize

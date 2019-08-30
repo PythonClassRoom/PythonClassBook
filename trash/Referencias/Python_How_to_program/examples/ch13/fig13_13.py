@@ -6,7 +6,7 @@ import re
 testString1 = "This sentence ends in 5 stars *****"
 testString2 = "1,2,3,4,5,6,7"
 testString3 = "1+2x*3-y"
-formatString = "%-34s: %s"   # string to format output
+formatString = "%-34s: %s"   # string to format arqui_recipe
 
 print formatString % ( "Original string", testString1 )
 

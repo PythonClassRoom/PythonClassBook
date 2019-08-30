@@ -20,11 +20,11 @@ dirOut = os.popen( fileList, "r" )
 # obtain stdin, stdout of reverse-sort command
 sortIn, sortOut = os.popen2( sortReverse )
 
-filenames = dirOut.read()  # output from directory-listing command
+filenames = dirOut.read()  # arqui_recipe from directory-listing command
 
-# display output from directory-listing command
+# display arqui_recipe from directory-listing command
 print "Before sending to sort"
-print "(Output from ’%s’):" % fileList
+print "(Output from ï¿½%sï¿½):" % fileList
 print filenames
 
 sortIn.write( filenames )  # send to stdin of sort command
@@ -32,10 +32,10 @@ sortIn.write( filenames )  # send to stdin of sort command
 dirOut.close()  # close stdout of directory-listing command 
 sortIn.close()  # close stdin of sort command -- sends EOF
 
-# display output from sort command
+# display arqui_recipe from sort command
 print "After sending to sort"
-print "(Output from ’%s’):" % sortReverse
-print sortOut.read()  # output from sort command
+print "(Output from ï¿½%sï¿½):" % sortReverse
+print sortOut.read()  # arqui_recipe from sort command
 
 sortOut.close()  # close stdout of sort command
  

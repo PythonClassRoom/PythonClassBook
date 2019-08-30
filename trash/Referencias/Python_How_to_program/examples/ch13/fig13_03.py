@@ -1,5 +1,5 @@
 # Fig. 13.3: fig13_03.py
-# Simple output formatting example.
+# Simple arqui_recipe formatting example.
 
 string1 = "Now I am here."
 
