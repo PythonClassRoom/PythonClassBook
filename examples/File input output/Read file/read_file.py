@@ -9,6 +9,4 @@ f.close()                   # It's important to close the file to free up any sy
 
 f1 = open("input1.txt", "r")
 
-print only first line of f1
-
-do not forget to close file
+print(only first line of f1)
